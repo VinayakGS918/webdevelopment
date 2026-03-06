@@ -1,0 +1,27 @@
+h1{
+    color: brown;
+    background-color: aquamarine;
+    text-align: center;
+    font-family: monospace;
+    font-size: 80px;
+    font-weight: bolder;
+}
+
+marquee{
+    color:black;
+    background-color: burlywood;
+}
+
+html{
+    background-color:rgb(126, 143, 143);
+}
+table{
+    background-color: blanchedalmond;
+    color: black;
+}
+
+img{
+    border: red dashed 10px;
+margin: 50px;
+    padding: 30px;
+}
